@@ -1,4 +1,4 @@
-env
+env/
 __pycache__/
 database.db
 .DS_Store
